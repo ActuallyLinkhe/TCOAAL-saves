@@ -1,6 +1,6 @@
 # TCOAAL Saves
 
-Collection of save files for The Coffin of Andy and Leyley
+Collection of save files for "The Coffin of Andy and Leyley"
 
 Save files are stored in:\
 `%appdata%\CoffinAndyLeyley` on windows\
