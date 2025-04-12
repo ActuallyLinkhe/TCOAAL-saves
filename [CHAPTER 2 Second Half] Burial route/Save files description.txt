@@ -1,7 +1,6 @@
 File 1:		Chose "No. But trust the trinket.", Burial route starts. Ashley left to grab the rest of the money while Andrew finishes setting up the ritual.
 File 2:		Andrew's parents are offering him a chance to give up on Ashley and side with them.
-			Not sure how relevant this decision is outside of some missed dialogue, so I declined their proposal in these save files.
-			I'll come back to this later if this ever becomes relevant.
+			Choosing "Reflect" will lead you back to Decay route, so just deny it to stay on Burial route.
 File 3:		Clean the ritual remains.
 File 4:		Start of the Burial dream sequence.
 File 5:		You can finish this puzzle in two ways: 
