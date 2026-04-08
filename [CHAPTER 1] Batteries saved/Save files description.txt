@@ -1,4 +1,5 @@
 File 1:		Picked up batteries, ate can of tomatoes. Ashley is cleaning the house.
+File 11:	Neighbor just died, and the siblings invaded his apartment. Interact with the jacket by the door and split the money to get first star for the Vision Room. (I added this after everything else, that's file it's on file 11)
 File 2:		Neighbor is dead, Andrew is about to dismember him. Ashley can talk to him to choose between watching him do it or go grab the bags.
 File 4:		Andrew and Ashley ate the neighbor, Ashley is going to bed while Andrew does the dishes.
 File 5:		Ashley woke up after having the dream of killing the unnamed girl, read the note Andrew left saying he's waiting for her on the neighbor's apartment.
